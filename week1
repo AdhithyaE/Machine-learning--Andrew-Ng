@@ -1,0 +1,9 @@
+Suppose (theta)1 is at a local optimum of J((theta)1), such as shown in the figure. What will one step of gradient descent
+(theta)1 := (theta)1 - ((alpha)*((d J((theta)1))/d((theta)1))) do?
+Graph Problem 1
+
+Answer
+Leave (theta)1 unchanged.
+
+Explanation
+Because the derivative term would be zero.
